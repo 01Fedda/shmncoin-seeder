@@ -30,6 +30,8 @@ CONFIGURE
 ---------
 
 ```
+Note: settings.conf is already included so copying is not needed.
+
 cp ./settings.conf.template ./settings.conf
 ```
 
